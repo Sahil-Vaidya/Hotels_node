@@ -18,8 +18,6 @@ router.post('/', async (req,res)=>{
     }
   })
 
-  
-// get for data chahiye
 // GET METHOD TO GET THE MENU 
 router.get('/', async (req,res)=>{
     try{
